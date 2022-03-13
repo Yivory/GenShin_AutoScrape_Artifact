@@ -95,7 +95,7 @@ def scrape(q):
             print(str(datetime.now()) + '||[INFO]: leftClick {}-{} to confirm '.format(left + confirm_pos[0],
                                                                                        top + confirm_pos[1]))
 
-            time.sleep(1.2)
+            time.sleep(1)
             pydirectinput.leftClick(left + reconfirm_pos[0], top + reconfirm_pos[1])
             print(str(datetime.now()) + '||[INFO]: leftClick {}-{} to reconfirm '.format(left + reconfirm_pos[0],
                                                                                          top + reconfirm_pos[1]))
