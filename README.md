@@ -1,4 +1,4 @@
-##如何使用 How to use
+## 如何使用 How to use
 >- 下载并运行 Download and Run [GenShin_AutoScrape_Artifact.exe](https://github.com/Yivory/GenShin_AutoScrape_Artifact/releases/tag/Genshin)
 
 1.本程序适用于 win10，需要以右键管理员身份运行
