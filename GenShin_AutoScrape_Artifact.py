@@ -117,6 +117,7 @@ if __name__ == '__main__':
     w_interval = 97.5
     h_interval = 116
     ans = str(input(
+        'github link: https://github.com/Yivory/GenShin_AutoScrape_Artifact\n'
         '1.本程序适用于 win10，需要以右键管理员身份运行\n'
         '2.请将游戏窗口化并请将分辨率调整至 1280*720，保持游戏窗口在桌面上【完整】【无遮挡】\n'
         '3.打开圣遗物界面，将圣遗物按稀有度由低到高排序\n'
